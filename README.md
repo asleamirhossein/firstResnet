@@ -1,5 +1,5 @@
-# firstResnet
-Sure! Here’s a well-structured explanation for your CIFAR-10 project with ResNet, which you can put on GitHub:
+# first Resnet
+
 
 CIFAR-10 Classification Using ResNet
 
@@ -36,7 +36,7 @@ How to Run the Code
 
  1. Clone the repository:
 
-git clone https://github.com/your-username/cifar10-resnet.git
+git clone https://github.com/asleamirhossein/firstResnet.git
 cd cifar10-resnet
 
 
@@ -63,4 +63,4 @@ Future Improvements
  • Experiment with different optimizers (SGD with momentum, RMSprop).
  • Implement semi-supervised learning for better generalization.
 
-Let me know if you want to modify anything!
+
